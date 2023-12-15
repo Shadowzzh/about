@@ -1,4 +1,9 @@
-# about
+# Hello World
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowzzh&show_icons=true)](https://github.com/&show_icons=true/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowzzh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![skills](https://skillicons.dev/icons?perline=10&theme=dark&i=javascript,webpack,nodejs,rollup,react,vue,nginx,docker,nextjs,ts)
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shadowzzh&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shadowzzh&theme=ayu_mirage)
